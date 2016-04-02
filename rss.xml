@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Thea]]></title>
         <description><![CDATA[Thea]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thea/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 01:31:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Apr 2016 03:35:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thea/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Why Story Structure is Like Chord Progression</p>]]></description>
-            <link>undefinedf6afabc4-226f-4fd6-9db8-2074dce51d0e/index.html</link>
+            <title><![CDATA[Why Story Structure is Like Chord Progression]]></title>
+            <description><![CDATA[<article><h1>Why Story Structure is Like Chord Progression</h1><p>There's a reason why works of art are often called compositions. They are by definitioncomposed,with a certain structure that the creator felt best represented that work. Sometimes this process is unconscious, as when artists compose by instinct, sensing what feels right. Sometimes it is very conscious, as when a painter does multiple studies before they set brush to canvas, or a writer decides to plot a story before they ever sit down to write a word of it.</p></article>]]></description>
+            <link>https://thegrid.ai/thea/f6afabc4-226f-4fd6-9db8-2074dce51d0e/index.html</link>
             <guid isPermaLink="false">f6afabc4-226f-4fd6-9db8-2074dce51d0e</guid>
-            <pubDate>Mon, 28 Mar 2016 01:31:02 GMT</pubDate>
+            <pubDate>Sat, 02 Apr 2016 03:35:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
